@@ -7,7 +7,7 @@ tagline: LIFE NOTEs
 
 ## NOTEs LIST
 
-Only research notes for now. Maybe I will add some essaies someday.
+My blog!
 
 <ul class="posts">
   {% for post in site.posts %}
