@@ -18,9 +18,9 @@ else:
 
 content = '''---
 layout: post
-category : research
+category : journey
 tagline: ""
-tags : [method]
+tags : []
 ---
 {% include JB/setup %}
 '''

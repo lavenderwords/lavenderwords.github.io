@@ -139,7 +139,7 @@
 			"file": "_posts/gen_post.py",
 			"settings":
 			{
-				"buffer_size": 1246,
+				"buffer_size": 1239,
 				"line_ending": "Windows"
 			}
 		}
@@ -147,9 +147,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 210.0,
+		"height": 60.0,
 		"selected_items":
 		[
+			[
+				"git qc",
+				"Git: Quick Commit"
+			],
+			[
+				"git adc",
+				"Git: Add Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
 			[
 				"git stat",
 				"Git: Status"
@@ -479,7 +491,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 498.0
+		"width": 562.0
 	},
 	"console":
 	{
@@ -496,6 +508,10 @@
 	},
 	"file_history":
 	[
+		"/D/project/github/lavenderwords.github.io/tags.html",
+		"/D/project/github/lavenderwords.github.io/404.html",
+		"/D/project/github/lavenderwords.github.io/index.md",
+		"/D/project/github/lavenderwords.github.io/_config.yml",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.org",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-interesting.org",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-strtok.org",
@@ -515,12 +531,10 @@
 		"/D/project/github/lavenderwords.github.io/_includes/JB/setup",
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-13-BASIC-CONCEPTS-FOR-RESEARCHING.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-06-method-search-and-read-paper.md",
-		"/D/project/github/lavenderwords.github.io/_config.yml",
 		"/D/project/github/lavenderwords.github.io/Rakefile",
 		"/D/project/github/lavenderwords.github.io/_posts/gen_post.py",
 		"/D/project/github/lavenderwords.github.io/lavenblog.sublime-project",
 		"/D/project/github/lavenderwords.github.io/README.md",
-		"/D/project/github/lavenderwords.github.io/index.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-06-note-test-post.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2011-12-29-jekyll-introduction.md",
 		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
@@ -528,7 +542,6 @@
 		"/D/project/github/lavenderwords.github.io/_includes/JB/tags_list",
 		"/D/project/github/lavenderwords.github.io/_includes/JB/pages_list",
 		"/D/project/github/lavenderwords.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md",
-		"/D/project/github/lavenderwords.github.io/tags.html",
 		"/D/project/github/lavenderwords.github.io/_includes/themes/twitter/page.html",
 		"/D/project/github/lavenderwords.github.io/categories.html",
 		"/D/project/github/lavenderwords.github.io/index.html",
@@ -622,8 +635,7 @@
 		"/D/project/706项目/测试结果/mem_and_same_size/4M.log",
 		"/D/project/706项目/测试结果/mem_and_same_size/测试报告撰写说明.txt",
 		"/D/project/706项目/测试结果/rw6c1p4m.log",
-		"/D/project/706项目/测试结果/iozone.log",
-		"/D/project/706项目/测试结果/8M.log"
+		"/D/project/706项目/测试结果/iozone.log"
 	],
 	"find":
 	{
@@ -642,6 +654,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Su",
 			"strtok",
 			"run_before_old",
 			"interesting",
@@ -768,8 +781,7 @@
 			"open in",
 			"open in b",
 			"ctrl+b",
-			"file",
-			"current"
+			"file"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -804,15 +816,15 @@
 					"file": "_posts/gen_post.py",
 					"settings":
 					{
-						"buffer_size": 1246,
+						"buffer_size": 1239,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								290,
-								290
+								533,
+								533
 							]
 						],
 						"settings":
@@ -958,7 +970,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 167.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1028,6 +1040,22 @@
 		"selected_items":
 		[
 			[
+				"ta",
+				"tags.html"
+			],
+			[
+				"4",
+				"404.html"
+			],
+			[
+				"i",
+				"index.md"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
 				"7d",
 				"_posts/2014-01-15-7_days_in_guilin.org"
 			],
@@ -1074,10 +1102,6 @@
 			[
 				"2m",
 				"_posts/2014-01-06-method-search-and-read-paper.md"
-			],
-			[
-				"con",
-				"_config.yml"
 			],
 			[
 				"ra",
@@ -1136,10 +1160,6 @@
 				"params.json"
 			],
 			[
-				"i",
-				"index.html"
-			],
-			[
 				"in",
 				"index.html"
 			],
@@ -1184,10 +1204,6 @@
 				"/C/Users/lav/Desktop/test/working/test.py"
 			],
 			[
-				"4",
-				"/D/project/706项目/测试结果/mem_and_same_size/4Mf.log"
-			],
-			[
 				"te",
 				"/C/Users/lav/Desktop/test/working/test.py"
 			],
@@ -1218,6 +1234,10 @@
 			[
 				"d",
 				"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/todo_list/daily_life/daily.sublime-project"
+			],
+			[
+				"r",
+				"/D/project/github/lavenresearch.github.io/research.sublime-project"
 			],
 			[
 				"",
