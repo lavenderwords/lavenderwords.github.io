@@ -14,43 +14,43 @@ tags : [武汉]
 
 - 走在路上忽然发现一个废弃的城堡
 
-![](../images/dry_ac_1.jpg)
+![](../images/dry_ac_1.jpg?raw=true)
 
 - 城堡的院子里，满是锈迹斑斑的废铁
 
-![](../images/dry_ac_2.jpg)
+![](../images/dry_ac_2.jpg?raw=true)
 
 - 大门边的废铁
 
-![](../images/dry_ac_3.jpg)
+![](../images/dry_ac_3.jpg?raw=true)
 
 - 院子中央的废铁
 
-![](../images/dry_ac_4.jpg)
+![](../images/dry_ac_4.jpg?raw=true)
 
 - 城堡脚下
 
-![](../images/dry_ac_5.jpg)
+![](../images/dry_ac_5.jpg?raw=true)
 
 - 城堡的入口
 
-![](../images/dry_ac_6.jpg)
+![](../images/dry_ac_6.jpg?raw=true)
 
 
-![](../images/dry_ac_7.jpg)
+![](../images/dry_ac_7.jpg?raw=true)
 
 - 城堡里面
 
-![](../images/dry_ac_8.jpg)
+![](../images/dry_ac_8.jpg?raw=true)
 
 - 外面的世界
 
-![](../images/dry_ac_9.jpg)
+![](../images/dry_ac_9.jpg?raw=true)
 
 - 6m
 
-![](../images/dry_ac_10.jpg)
+![](../images/dry_ac_10.jpg?raw=true)
 
 - 离开
 
-![](../images/dry_ac_11.jpg)
+![](../images/dry_ac_11.jpg?raw=true)
