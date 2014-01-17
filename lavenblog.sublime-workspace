@@ -139,7 +139,7 @@
 			"file": "_posts/gen_post.py",
 			"settings":
 			{
-				"buffer_size": 1239,
+				"buffer_size": 1235,
 				"line_ending": "Windows"
 			}
 		}
@@ -150,6 +150,14 @@
 		"height": 60.0,
 		"selected_items":
 		[
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"gacf",
+				"Git: Add Current File"
+			],
 			[
 				"git qc",
 				"Git: Quick Commit"
@@ -508,10 +516,30 @@
 	},
 	"file_history":
 	[
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-7_days_in_guilin.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-abandoned_castle.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-interesting.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-run_before_old.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-strtok.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-to_youth.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-17-strtok.org",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-to_youth.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-strtok.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-interesting.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-2013!.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-run_before_old.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-abandoned_castle.md",
+		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/project/github/lavenderwords.github.io/_posts/jekyll-introduction-draft.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-7_days_in_guilin.md",
+		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-7_days_in_guilin.html",
+		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/sublimetext-markdown-preview/MarkdownPreview.sublime-settings",
+		"/D/project/github/lavenderwords.github.io/_config.yml",
+		"/D/project/github/lavenresearch.github.io/_config.yml",
+		"/D/project/github/lavenderwords.github.io/index.md",
 		"/D/project/github/lavenderwords.github.io/tags.html",
 		"/D/project/github/lavenderwords.github.io/404.html",
-		"/D/project/github/lavenderwords.github.io/index.md",
-		"/D/project/github/lavenderwords.github.io/_config.yml",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.org",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-interesting.org",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-strtok.org",
@@ -615,27 +643,7 @@
 		"/C/Users/lav/Desktop/test/working/notes.sublime-project",
 		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/lav/Desktop/orgmode.html",
-		"/C/Users/lav/Desktop/orgmode",
-		"/C/Users/lav/Desktop/EtsxS0WRh0.torrent",
-		"/D/project/706项目/测试结果/mem_and_same_size/4Mf.log",
-		"/D/project/706项目/测试结果/mem_and_same_size/8M.log",
-		"/D/project/706项目/测试结果/mem_and_same_size/16M.log",
-		"/D/project/工作交接_华为pnfs/work_zwh/热点迁移/毕业设计版/大机房代码/gdesign/istall.sh",
-		"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/to_read_paper_list/DVM Towards a Datacenter-Scale Virtual Machine/kmeans/DISA/kmeans-p12_8m-k1000-r64.disa",
-		"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/research/storage_virtualization_in_datacenter.tex",
-		"/H/book/docs/西安-吃.txt",
-		"/H/book/docs/强烈推荐的　　",
-		"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/to_read_paper_list/DVM Towards a Datacenter-Scale Virtual Machine/kmeans/x10/KMeansSPMD.x10",
-		"/D/project/706项目/background_docs/pnfs/draft notes from pNFS meeting held in Vancouver",
-		"/E/pf/python274/pylint-0.28.0/README",
-		"/E/pf/pylint-0.28.0/README",
-		"/E/pf/pylint-0.28.0/setup.py",
-		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/User/Pylinter.sublime-settings",
-		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
-		"/D/project/706项目/测试结果/mem_and_same_size/4M.log",
-		"/D/project/706项目/测试结果/mem_and_same_size/测试报告撰写说明.txt",
-		"/D/project/706项目/测试结果/rw6c1p4m.log",
-		"/D/project/706项目/测试结果/iozone.log"
+		"/C/Users/lav/Desktop/orgmode"
 	],
 	"find":
 	{
@@ -654,6 +662,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jpg",
+			"method",
+			"research",
+			"method",
+			"file:",
+			"!",
+			"]]",
+			"[[",
+			"#+BEGIN_CENTER",
+			"\n#+",
+			"#+BEGIN_CENTER",
+			"BEGIN_CENTER",
+			"method",
+			"[[file:",
 			"Su",
 			"strtok",
 			"run_before_old",
@@ -767,21 +789,7 @@
 			"爱尔兰",
 			"埃及金字塔",
 			"亚马逊河",
-			"非洲大草原",
-			"']",
-			"南极",
-			"']",
-			"武汉",
-			"青海湖",
-			"桂林",
-			"ctrl+f12",
-			"command",
-			"current",
-			"open",
-			"open in",
-			"open in b",
-			"ctrl+b",
-			"file"
+			"非洲大草原"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -789,6 +797,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			")",
+			"![](",
 			"5.",
 			"4.",
 			"3.",
@@ -816,15 +826,15 @@
 					"file": "_posts/gen_post.py",
 					"settings":
 					{
-						"buffer_size": 1239,
+						"buffer_size": 1235,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								533,
-								533
+								379,
+								379
 							]
 						],
 						"settings":
@@ -1040,6 +1050,22 @@
 		"selected_items":
 		[
 			[
+				"gui",
+				"_posts/2014-01-15-7_days_in_guilin.md"
+			],
+			[
+				"guhtml",
+				"_drafts/2014-01-15-7_days_in_guilin.html"
+			],
+			[
+				"_drafts/",
+				"_drafts/2014-01-15-7_days_in_guilin.md"
+			],
+			[
+				"in",
+				"index.md"
+			],
+			[
 				"ta",
 				"tags.html"
 			],
@@ -1160,10 +1186,6 @@
 				"params.json"
 			],
 			[
-				"in",
-				"index.html"
-			],
-			[
 				"w",
 				"world_in_my_eyes.py"
 			],
@@ -1232,6 +1254,10 @@
 		"selected_items":
 		[
 			[
+				"da",
+				"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/todo_list/daily_life/daily.sublime-project"
+			],
+			[
 				"d",
 				"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/todo_list/daily_life/daily.sublime-project"
 			],
@@ -1253,7 +1279,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 180.0,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
 	"status_bar_visible": true
 }
