@@ -2,7 +2,7 @@
 # just fill the name varibable with the post title which should be the source file name
 import time
 
-name = "to_youth"
+name = "strtok"
 
 # 0 for adding nothing
 # 1 for adding "note@" before name
@@ -18,9 +18,9 @@ else:
 
 content = '''---
 layout: post
-category : journey
+category : tech
 tagline: ""
-tags : []
+tags : [c]
 ---
 {% include JB/setup %}
 '''
