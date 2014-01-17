@@ -1,8 +1,8 @@
 ---
 layout: post
-category : research
+category : journey
 tagline: ""
-tags : [method]
+tags : [bike]
 ---
 {% include JB/setup %}
 # 再不出发就老了！
