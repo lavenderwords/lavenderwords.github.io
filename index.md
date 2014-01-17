@@ -7,7 +7,7 @@ tagline: LIFE NOTEs
 
 ## NOTEs LIST
 
-My blog!
+My blog!!
 
 <ul class="posts">
   {% for post in site.posts %}
