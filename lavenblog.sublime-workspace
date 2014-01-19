@@ -532,6 +532,7 @@
 	},
 	"file_history":
 	[
+		"/D/project/github/lavenderwords.github.io/Rakefile",
 		"/D/Dropbox/configurations/.ssh/known_hosts",
 		"/D/Dropbox/configurations/.ssh/id_rsa.pub",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-7_days_in_guilin.md",
@@ -577,7 +578,6 @@
 		"/D/project/github/lavenderwords.github.io/_includes/JB/setup",
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-13-BASIC-CONCEPTS-FOR-RESEARCHING.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-06-method-search-and-read-paper.md",
-		"/D/project/github/lavenderwords.github.io/Rakefile",
 		"/D/project/github/lavenderwords.github.io/_posts/gen_post.py",
 		"/D/project/github/lavenderwords.github.io/lavenblog.sublime-project",
 		"/D/project/github/lavenderwords.github.io/README.md",
@@ -678,6 +678,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"themes",
 			"..",
 			"?raw=true",
 			"..",
@@ -804,8 +805,7 @@
 			"draw\ndraw",
 			"time",
 			"50",
-			"show_location_content",
-			"uncover_locations"
+			"show_location_content"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -835,7 +835,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1066,6 +1065,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"rake",
+				"Rakefile"
+			],
 			[
 				"yo",
 				"_posts/2014-01-15-to_youth.md"
@@ -1312,7 +1315,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 294.0,
 	"status_bar_visible": true
 }
