@@ -139,7 +139,7 @@
 			"file": "_posts/gen_post.py",
 			"settings":
 			{
-				"buffer_size": 1235,
+				"buffer_size": 1223,
 				"line_ending": "Windows"
 			}
 		}
@@ -150,6 +150,22 @@
 		"height": 60.0,
 		"selected_items":
 		[
+			[
+				"gitqc",
+				"Git: Quick Commit"
+			],
+			[
+				"gitac",
+				"Git: Add Current File"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit"
+			],
+			[
+				"gitacf",
+				"Git: Add Current File"
+			],
 			[
 				"gqc",
 				"Git: Quick Commit"
@@ -516,13 +532,17 @@
 	},
 	"file_history":
 	[
-		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.md",
+		"/D/Dropbox/configurations/.ssh/known_hosts",
+		"/D/Dropbox/configurations/.ssh/id_rsa.pub",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-7_days_in_guilin.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-abandoned_castle.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-interesting.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-run_before_old.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-strtok.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-to_youth.md",
+		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.md",
+		"/D/project/github/lavenderwords.github.io/_config.yml",
+		"/D/project/github/lavenderwords.github.io/index.md",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-17-strtok.org",
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-to_youth.md",
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-strtok.md",
@@ -535,9 +555,7 @@
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-7_days_in_guilin.md",
 		"/D/project/github/lavenderwords.github.io/_drafts/2014-01-15-7_days_in_guilin.html",
 		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/sublimetext-markdown-preview/MarkdownPreview.sublime-settings",
-		"/D/project/github/lavenderwords.github.io/_config.yml",
 		"/D/project/github/lavenresearch.github.io/_config.yml",
-		"/D/project/github/lavenderwords.github.io/index.md",
 		"/D/project/github/lavenderwords.github.io/tags.html",
 		"/D/project/github/lavenderwords.github.io/404.html",
 		"/D/project/github/lavenderwords.github.io/_posts/2014-01-15-2013!.org",
@@ -641,9 +659,7 @@
 		"/E/pnfs/pvfs_layout_driver/pvfs2-1.5.1-ld-20061114/README",
 		"/C/Users/lav/Desktop/test/working/English",
 		"/C/Users/lav/Desktop/test/working/notes.sublime-project",
-		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/lav/Desktop/orgmode.html",
-		"/C/Users/lav/Desktop/orgmode"
+		"/C/Users/lav/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -662,6 +678,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"..",
+			"?raw=true",
+			"..",
+			"strap",
+			"strape",
+			"twitter",
 			"jpg",
 			"method",
 			"research",
@@ -783,13 +805,7 @@
 			"time",
 			"50",
 			"show_location_content",
-			"uncover_locations",
-			"),            ",
-			"']",
-			"爱尔兰",
-			"埃及金字塔",
-			"亚马逊河",
-			"非洲大草原"
+			"uncover_locations"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -797,6 +813,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			")",
 			"![](",
 			"5.",
@@ -826,15 +843,15 @@
 					"file": "_posts/gen_post.py",
 					"settings":
 					{
-						"buffer_size": 1235,
+						"buffer_size": 1223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								379,
-								379
+								264,
+								264
 							]
 						],
 						"settings":
@@ -1050,6 +1067,26 @@
 		"selected_items":
 		[
 			[
+				"yo",
+				"_posts/2014-01-15-to_youth.md"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"to",
+				"_posts/2014-01-15-to_youth.md"
+			],
+			[
+				"in",
+				"index.md"
+			],
+			[
+				"run",
+				"_posts/2014-01-15-run_before_old.md"
+			],
+			[
 				"gui",
 				"_posts/2014-01-15-7_days_in_guilin.md"
 			],
@@ -1062,10 +1099,6 @@
 				"_drafts/2014-01-15-7_days_in_guilin.md"
 			],
 			[
-				"in",
-				"index.md"
-			],
-			[
 				"ta",
 				"tags.html"
 			],
@@ -1076,10 +1109,6 @@
 			[
 				"i",
 				"index.md"
-			],
-			[
-				"con",
-				"_config.yml"
 			],
 			[
 				"7d",
@@ -1254,16 +1283,20 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"/D/project/github/lavenresearch.github.io/research.sublime-project"
+			],
+			[
+				"r",
+				"/D/project/github/lavenresearch.github.io/research.sublime-project"
+			],
+			[
 				"da",
 				"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/todo_list/daily_life/daily.sublime-project"
 			],
 			[
 				"d",
 				"/D/Dropbox/configurations/_emacs_laven/laven_blog/source/todo_list/daily_life/daily.sublime-project"
-			],
-			[
-				"r",
-				"/D/project/github/lavenresearch.github.io/research.sublime-project"
 			],
 			[
 				"",
@@ -1279,7 +1312,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 294.0,
 	"status_bar_visible": true
 }
