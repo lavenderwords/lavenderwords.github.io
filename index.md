@@ -21,4 +21,4 @@ My blog!!
 
 <!-- <iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width="640" height="480"></iframe> -->
 
-<iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width=100% height="480"></iframe>
+<iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width="100%" height="50%"></iframe>
