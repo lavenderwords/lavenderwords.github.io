@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: LIFE NOTEs 
+tagline: LIFE NOTEs
 ---
 {% include JB/setup %}
 
@@ -19,4 +19,4 @@ My blog!!
 
 [Tour Tracking on Google Map](https://mapsengine.google.com/map/edit?mid=zw4FUKSEFMDQ.ke6qqKluFO9U)
 
-
+<iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width="640" height="480"></iframe>
