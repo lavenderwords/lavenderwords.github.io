@@ -8,9 +8,15 @@ tags : [programmig]
 
 # Parallel File System Diagnosis
 
++ dk 
+    * ksjadf
+        - kjdfj
+            + kljgk
+                * kjgk
+
 1. 基础技能
     + ganglia
-        - system statement information collection python model
+        * system statement information collection python model
             - 确定是否所有信息都可以使用ganglia收集（1）
             - ganalia python model 的编写方法（2）
             - 编写 python model (3)
