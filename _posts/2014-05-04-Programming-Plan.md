@@ -8,12 +8,6 @@ tags : [programmig]
 
 # Parallel File System Diagnosis
 
-+ dk 
-    * ksjadf
-        - kjdfj
-            + kljgk
-                * kjgk
-
 1. 基础技能
     + ganglia
         * system statement information collection python model
