@@ -3,8 +3,8 @@ layout: post
 category : project
 tagline: ""
 tags : [programmig]
+comments: true
 ---
-{% include JB/setup %}
 
 # Parallel File System Diagnosis
 

@@ -3,8 +3,9 @@ layout: post
 category : journey
 tagline: ""
 tags : [桂林]
+comments: true
 ---
-{% include JB/setup %}
+
 # Django Unchained
 “人生大概就是给自己戴上一个一个镣铐再一个一个打开它们！”   —— 题记
 

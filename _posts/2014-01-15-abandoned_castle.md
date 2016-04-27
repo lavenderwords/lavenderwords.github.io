@@ -2,9 +2,11 @@
 layout: post
 category : journey
 tagline: ""
+comments: true
 tags : [武汉]
+comments: true
 ---
-{% include JB/setup %}
+
 # 废弃的城堡
 偌大一个城堡，空空荡荡，由内而外透着神秘的气息，不知它的主人现在何方，也不知岁月掩埋了它怎样的故事，能看见的只是时间在它身上刻下的印记 --- 破碎的窗户，斑驳的墙壁，杂草丛生的院落，满是锈迹的大门。这个被人们遗忘的角落又被自然重新占领。
 

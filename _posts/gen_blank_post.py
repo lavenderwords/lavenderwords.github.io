@@ -11,6 +11,7 @@ layout: post
 content += "category : " + category
 content += '''
 tagline: ""
+comments: true
 '''
 i = len(tags)
 content += "tags : ["
@@ -22,7 +23,7 @@ for tag in tags:
 content += "]"
 content += '''
 ---
-{% include JB/setup %}
+
 '''
 
 def gen_post(name, post_content, t = time.localtime()):
