@@ -15,10 +15,3 @@ My blog!!
   {% endfor %}
 </ul>
 
-## My Journey On Map
-
-<!-- [Tour Tracking on Google Map](https://mapsengine.google.com/map/edit?mid=zw4FUKSEFMDQ.ke6qqKluFO9U) -->
-
-<!-- <iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width="640" height="480"></iframe> -->
-
-<iframe src="https://mapsengine.google.com/map/embed?mid=zw4FUKSEFMDQ.ke6qqKluFO9U" width="500" height="480"></iframe>
